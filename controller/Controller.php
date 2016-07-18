@@ -2,6 +2,7 @@
 	include_once("model/Model.php");  
   //comment HIEN
   //kien binsieukhung
+  //comment Hien lan 3
 	class Controller {  
 	     public $model;   
 	  

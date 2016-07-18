@@ -2,7 +2,7 @@
 <head></head>  
   
 <body>  
-  
+  /* view book commit*/
     <?php   
   		//echo "abcd".isset($_GET['book']);
         echo 'Title:' . $book->title . '<br/>';  

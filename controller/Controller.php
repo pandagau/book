@@ -3,6 +3,7 @@
   //comment HIEN
   //kien binsieukhung
   //comment Hien lan 3
+  //commit hien lan 4
 	class Controller {  
 	     public $model;   
 	  

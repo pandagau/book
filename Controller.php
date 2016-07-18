@@ -2,6 +2,7 @@
 //add comment commit
 	include_once("model/Model.php");  
   //edit lan 2 hien ...
+  ////edit by Kien
 	class Controller {  
 	     public $model;   
 	  

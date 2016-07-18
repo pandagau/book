@@ -1,6 +1,7 @@
 <?php 
 	include_once("model/Model.php");  
   //comment HIEN
+  //kien
 	class Controller {  
 	     public $model;   
 	  

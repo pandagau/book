@@ -23,5 +23,6 @@
 	               include 'view/viewbook.php';  
 	          }  
 	     }  
+	     // Comment Bin
 	}  
  ?>

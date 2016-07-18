@@ -1,7 +1,7 @@
 <?php 
 //add comment commit
 	include_once("model/Model.php");  
-  //edit lan 2 hien
+  //edit lan 2 hien ...
 	class Controller {  
 	     public $model;   
 	  

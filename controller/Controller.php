@@ -1,7 +1,7 @@
 <?php 
 	include_once("model/Model.php");  
   //comment HIEN
-  //kien
+  //kien binsieukhung
 	class Controller {  
 	     public $model;   
 	  
